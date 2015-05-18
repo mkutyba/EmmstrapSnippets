@@ -14,7 +14,7 @@ Download or clone repo.
 
 ## Usage
 
-The tab trigger of this plugin is `bt-*`.
+The tab trigger of this plugin is `bt-*`. Insert and tweak emmet chain, then tab to expand it to html code.
 
 ### Avaiable Snippets
 
