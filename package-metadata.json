@@ -1,0 +1,8 @@
+{
+	"description": "Emmet Snippets for Bootstrap Components. Inspired by http://emmstrap.net/ by @hectorpalmatellez",
+	"url": "https://github.com/mkutyba/EmmstrapSnippets",
+	"platforms": ["*"],
+	"version": "0.1.0",
+	"sublime_text": "*",
+	"dependencies": []
+}

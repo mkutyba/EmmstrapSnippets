@@ -1,0 +1,15 @@
+Thank you for installing Emmet Snippets for Bootstrap Components.
+
+
+Usage:
+
+The tab trigger of this plugin is "bt-*".
+
+
+Avaiable Snippets:
+
+* 'bt-accordion' | Accordion with n panels
+
+
+Suggestions:
+If you have something to improve these snippets, please create an issue: https://github.com/mkutyba/EmmstrapSnippets/issues/new. You can also paste your snippets there.

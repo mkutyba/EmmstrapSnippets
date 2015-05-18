@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[.panel-group#accordion-${1:NAME}[role="tablist"][aria-multiselectable="true"]>.panel.panel-default>.panel-heading[role="tab"]#${1:NAME}-heading-\$>h4.panel-title>a.accordion-toggle[data-toggle="collapse"][data-parent="#accordion-${1:NAME}"][href="#${1:NAME}-collapse-\$"][aria-expanded="true"][aria-controls="${1:NAME}-collapse-\$"]\{Heading text ${2:\$\$\$}\}^^#${1:NAME}-collapse-\$.panel-collapse.collapse.in[role="tabpanel"][aria-labelledby="${1:NAME}-heading-\$"]>.panel-body>\{Body text ${2:\$\$\$}\}^^^(.panel.panel-default>.panel-heading[role="tab"]#${1:NAME}-heading-\$@2>h4.panel-title>a.accordion-toggle.collapsed[data-toggle="collapse"][data-parent="#accordion-${1:NAME}"][href="#${1:NAME}-collapse-\$@2"][aria-expanded="false"][aria-controls="${1:NAME}-collapse-\$@2"]\{Heading text ${2:\$\$\$}@2\}>i.fa.fa-chevron-right.pull-right+i.fa.fa-chevron-down.pull-right^^^#${1:NAME}-collapse-\$@2.panel-collapse.collapse[role="tabpanel"][aria-labelledby="${1:NAME}-heading-\$@2"]>.panel-body>\{Body text ${2:\$\$\$}@2\})*${3:3}]]></content>
+	<tabTrigger>bt-accordion</tabTrigger>
+	<description>Accordion with n panels</description>
+</snippet>
